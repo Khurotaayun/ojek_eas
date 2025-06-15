@@ -1,0 +1,10 @@
+streamlit==1.33.0
+streamlit-webrtc==0.45.0
+torch==2.0.1
+opencv-python-headless==4.8.0.76
+numpy
+Pillow
+matplotlib
+PyYAML
+requests
+git+https://github.com/ultralytics/yolov5.git
