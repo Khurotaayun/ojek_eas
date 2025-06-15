@@ -1,6 +1,6 @@
 streamlit==1.33.0
 streamlit-webrtc==0.45.0
-torch==2.0.1
+torch==2.0.1+cpu
 opencv-python-headless==4.8.0.76
 numpy
 Pillow
